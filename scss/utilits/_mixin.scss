@@ -1,4 +1,0 @@
-@mixin calc($cont, $gap) {
-    width: calc((100% - ($cont - 1) * $gap) / $cont);
-    
-}
